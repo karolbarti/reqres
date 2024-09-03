@@ -9,6 +9,10 @@ The Reqres Automation Project is a test automation suite for testing the Reqres 
 - **Playwright**: A powerful framework for browser automation, allowing you to write end-to-end tests for web applications.
 - **TypeScript**: A superset of JavaScript that adds static typing to improve code quality and maintainability.
 
+## First Step
+
+Create a .env file like the example ".env.example" for your environment test suite.
+
 ## Running Tests
 
 To execute the tests in this project, use the following commands:
@@ -46,6 +50,10 @@ Generates an Allure report from the test results stored in the `allure-results` 
 `allure serve allure-results`
 
 Starts a web server to serve the Allure report. This command will automatically open the report in your default web browser, allowing you to view and interact with the test results in a user-friendly format.
+
+### Report Allure Example
+
+
 
 ## Summary
 
