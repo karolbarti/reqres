@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "commonjs",
+        "moduleResolution": "Node",
+        "sourceMap": true,
+        "outDir": "tests-out",
+        "paths": {
+            "@schemas/*": ["./schemas/*"],
+            "@environment": ["./environment/environment"],
+            "@payloads/*": ["./tests/fixtures/payloads/*"]
+        }
+    },
+    // "include": ["tests/**/*.ts", "./playwright.config.ts"]
+}
