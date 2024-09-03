@@ -53,6 +53,7 @@ Starts a web server to serve the Allure report. This command will automatically 
 
 ### Report Allure Example
 
+![Captura de tela 2024-09-02 235034](https://github.com/user-attachments/assets/7a590436-8c6c-4222-bce3-f6b6e04be7cb)
 
 
 ## Summary
